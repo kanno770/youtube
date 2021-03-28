@@ -63,7 +63,7 @@ class MyApp extends StatelessWidget {
                     Column(
                       children: <Widget>[
                         const Text(
-                          'ANNnewsCH',
+                          'ANNnewsCH111111',
                         ),
                         FlatButton(
                           child: Row(
